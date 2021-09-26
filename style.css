@@ -1,0 +1,19 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: linear-gradient(to right, #ff0000 , #00ff00);
+    text-align: center;
+    color:white;
+}
+
+h1 {
+    text-transform: uppercase;
+    padding-top: 200px;
+}
+
+h2 {
+    text-transform: uppercase;
+}
+
+h3{
+    color: rgba(208, 217, 214, 0.6);
+}
